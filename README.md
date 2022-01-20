@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 give a star and a follow for good luck
 
 <!--
 **ngigijohn/ngigijohn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
